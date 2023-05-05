@@ -2,7 +2,7 @@ ELIAS HAGOS
 
 05/04/2023
 
-# Election Results
+#Election Results
 
 This script takes election data in CSV format and computes the total number of votes cast, the percentage of votes and total votes for each candidate, and finally determines the winner of the election.
 
